@@ -6,7 +6,7 @@ void setup() {
   // put your setup code here, to run once:
   pinMode(BUTTON_pin, INPUT);
   pinMode(LED_pin, OUTPUT);
-  Serial.begin(9600);
+  Serial.begin(300);
 
 }
 
